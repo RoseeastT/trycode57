@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://maxwin188.maskoolin.com/sitemap.xml
+Sitemap : http://maxwin168.org.qua.st/sitemap.xml
